@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Jacob! I make scripts and like to build things.
 
-<!--
-**theejacob101/theejacob101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
+- **Languages:** Python, Batch 
+- **Tools & Platforms:** Git, GitHub, Docker, Linux
 
-Here are some ideas to get you started:
+### Featured Projects
+- **[Scripts](https://github.com/theejacob101/scripts):** A collection of automation and utility batch scripts.
+- **[Fabricator](https://github.com/philderks/Fabricator):** An open-source, self-hosted web UI for managing Minecraft servers and mods via Modrinth. (Contributed to)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### How to reach me
+- **Discord:** theejacob101
