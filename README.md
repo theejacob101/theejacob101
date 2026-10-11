@@ -8,8 +8,8 @@ I do frontend developent and like to build things.
 
 #### Languages & Frameworks
 - Vue.js
-- Python
 - Batch
+- Python
 
 #### Tools & Platforms
 - Docker
