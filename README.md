@@ -1,6 +1,6 @@
 # Hey, I'm Jacob!
 
-I i'm frontend dev and like to build web pages and scripts.
+I'm frontend dev and like to build web pages and scripts.
 
 ---
 
