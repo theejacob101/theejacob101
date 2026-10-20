@@ -24,7 +24,7 @@ I'm frontend dev and like to build web pages and scripts.
 * **[Scripts](https://github.com/theejacob101/scripts)** 
   A collection of automation and utility batch scripts.
 * **[Fabricator](https://github.com/philderks/Fabricator)** 
-  An open-source, self-hosted web UI for managing Minecraft servers and mods via Modrinth. *(Contributor)*
+  An open-source, self-hosted web UI for managing Minecraft servers and mods via Modrinth. *(Contributor to docs)*
 
 ### 💬 How to reach me
 - **Discord:** `theejacob101`
