@@ -20,7 +20,7 @@ I'm frontend dev and like to build web pages and scripts.
 
 ###  Featured Projects
 * **[miaevans.us](https://miaevans.us)**
-  
+  Developed in Vue.js containerized into Docker. 
 * **[Scripts](https://github.com/theejacob101/scripts)** 
   A collection of automation and utility batch scripts.
 * **[Fabricator](https://github.com/philderks/Fabricator)** 
