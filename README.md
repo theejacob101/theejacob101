@@ -1,6 +1,6 @@
 # Hey, I'm Jacob!
 
-I'm frontend dev and like to build web pages and scripts.
+I'm frontend dev and I use Vue.js for my apps.
 
 ---
 
